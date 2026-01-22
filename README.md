@@ -1,7 +1,7 @@
 
 # APPLICATION: WHATSAPP
 
-# Part A
+# Part A (Understanding the App)
 
 What problem does the app solve?
 
