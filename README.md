@@ -1,5 +1,5 @@
 
-# APPLICATION: WHATSAPP
+# *APPLICATION*: WHATSAPP
 
 # Part A (Understanding the App)
 
