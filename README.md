@@ -21,6 +21,8 @@ Who are the primary users?
 - Voice and video calling
 - Group Chats
 - Media sharing
+- Voice notes
+- Message forwarding
 
 
 # Part B: Thinking Behind the Scenes
