@@ -23,6 +23,7 @@ Who are the primary users?
 - Media sharing
 - Voice notes
 - Message forwarding
+- Status updates
 
 
 # Part B: Thinking Behind the Scenes
