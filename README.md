@@ -11,6 +11,8 @@ What problem does the app solve?
 
 ● Complicated user identification 
 
+●	Ad-free Experience 
+
 Who are the primary users?
 
 - Smartphone users
