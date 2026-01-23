@@ -9,6 +9,8 @@ What problem does the app solve?
 
 ●	Restrictive SMS charges
 
+● Complicated user identification 
+
 Who are the primary users?
 
 - Smartphone users
