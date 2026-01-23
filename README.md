@@ -16,6 +16,8 @@ Who are the primary users?
 - Students
   
 - Enterprise users
+# Core features.
+
 
 # Part B: Thinking Behind the Scenes
 
