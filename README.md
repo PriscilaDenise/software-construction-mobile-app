@@ -10,6 +10,9 @@ What problem does the app solve?
 ●	Restrictive SMS charges
 
 Who are the primary users?
--- Smartphone users 
--- Students 
--- Enterprise users 
+
+- Smartphone users
+  
+- Students
+  
+- Enterprise users 
