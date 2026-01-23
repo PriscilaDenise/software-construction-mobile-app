@@ -17,6 +17,8 @@ Who are the primary users?
   
 - Enterprise users
 # Core features.
+- Instant messaging
+- Voice and video calling
 
 
 # Part B: Thinking Behind the Scenes
