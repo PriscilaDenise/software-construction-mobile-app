@@ -19,6 +19,8 @@ Who are the primary users?
 # Core features.
 - Instant messaging
 - Voice and video calling
+- Group Chats
+- Media sharing
 
 
 # Part B: Thinking Behind the Scenes
