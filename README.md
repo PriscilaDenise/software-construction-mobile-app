@@ -42,18 +42,20 @@ This document explains how core WhatsApp features work behind the scenes. It out
 - **User Interface (UI):** Chart screen, Text input box, send button
 
   
-- **Business Logic:**
+**Business Logic:**
   - Message sending and receiving
   - Time-stamping of messages
   - message delivery status indicators (✓, ✓✓)
+    
 - **Network / APIs:**
   - Transmits messages via WhatsApp servers to recipients
-- **Data Storage:**
+
+ **Data Storage:**
   - Local storage on the device
   - Server-side storage until delivery
 
-**Internet Connectivity Required**
-- Yes
+**Internet Connectivity Required**: Yes
+
 
 **Behavior When Network Is Slow or Unavailable**
 - Messages remain in a sending state with no tick (delivery status indicator )
@@ -64,18 +66,16 @@ This document explains how core WhatsApp features work behind the scenes. It out
 ##  Voice and Video Calling
 
 **Software Components Involved**
-- **User Interface (UI):**
-  - Call screen
-  - Mute button
-  - Speaker controls
-  - Video display
-- **Business Logic:**
+- **User Interface (UI):** Call screen, Mute button, Speaker controls, Video display
+ 
+**Business Logic:**
   - Manages audio and video switching when on a call
-- **Network / APIs:**
+    
+**Network / APIs:**
   - Supports real-time communication using internet protocols
 
-**Internet Connectivity Required**
-- Yes
+**Internet Connectivity Required**: Yes
+
 
 **Behavior When Network Is Slow or Unavailable**
 - Reduced audio and video quality
@@ -87,23 +87,20 @@ This document explains how core WhatsApp features work behind the scenes. It out
 ##  Group Chats
 
 **Software Components Involved**
-- **User Interface (UI):**
-  - Group chat interface
-  - Participant list
-  - Admin controls
-- **Business Logic:**
+
+**User Interface (UI):** Group chat interface, Participant list, Admin controls
+  
+**Business Logic:**
   - Manages group membership and permissions
   - Handles message distribution while managing permissions, delivery status, and message order
-- **Network / APIs:**
-  - Sends messages to multiple recipients simultaneously
-- **Data Storage:**
-  - Stores group messages and metadata
+    
+**Network / APIs:** Sends messages to multiple recipients simultaneously
+    
+**Data Storage:** Stores group messages and metadata
 
-**Internet Connectivity Required**
-- Yes
+**Internet Connectivity Required:** Yes
 
-**Behavior When Network Is Slow or Unavailable**
-- Messages are delivered late
+**Behavior When Network Is Slow or Unavailable:** Messages are delivered late
 
 
 
