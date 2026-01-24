@@ -47,8 +47,7 @@ This document explains how core WhatsApp features work behind the scenes. It out
   - Time-stamping of messages
   - message delivery status indicators (✓, ✓✓)
     
-- **Network / APIs:**
-  - Transmits messages via WhatsApp servers to recipients
+- **Network / APIs:** Transmits messages via WhatsApp servers to recipients
 
  **Data Storage:**
   - Local storage on the device
@@ -57,7 +56,7 @@ This document explains how core WhatsApp features work behind the scenes. It out
 **Internet Connectivity Required**: Yes
 
 
-**Behavior When Network Is Slow or Unavailable**
+**Behavior When Network Is Slow or Unavailable:**
 - Messages remain in a sending state with no tick (delivery status indicator )
 - Message delivery is delayed
 
@@ -66,18 +65,16 @@ This document explains how core WhatsApp features work behind the scenes. It out
 ##  Voice and Video Calling
 
 **Software Components Involved**
-- **User Interface (UI):** Call screen, Mute button, Speaker controls, Video display
+**User Interface (UI):** Call screen, Mute button, Speaker controls, Video display
  
-**Business Logic:**
-  - Manages audio and video switching when on a call
+**Business Logic:**  Manages audio and video switching when on a call
     
-**Network / APIs:**
-  - Supports real-time communication using internet protocols
+**Network / APIs:** Supports real-time communication using internet protocols
 
 **Internet Connectivity Required**: Yes
 
 
-**Behavior When Network Is Slow or Unavailable**
+**Behavior When Network Is Slow or Unavailable:**
 - Reduced audio and video quality
 - Calls may drop or fail to connect
 - Freezing and latency during calls
@@ -107,19 +104,20 @@ This document explains how core WhatsApp features work behind the scenes. It out
 ##  Media Sharing (Photos, Videos, Documents)
 
 **Software Components Involved**
-- **User Interface (UI):** Media picker, Preview screen, Download button
+
+**User Interface (UI):** Media picker, Preview screen, Download button
   
-- **Business Logic:**
+**Business Logic:**
   - Compresses media files
   - Validates file size and format
     
-- **Network / APIs:** Handles media uploads and downloads
+**Network / APIs:** Handles media uploads and downloads
   
-- **Data Storage:** Stores media locally and temporarily on servers
+**Data Storage:** Stores media locally and temporarily on servers
 
 **Internet Connectivity Required:** Yes
 
-**Behavior When Network Is Slow or Unavailable**
+**Behavior When Network Is Slow or Unavailable:**
 - Uploads and downloads may pause or fail
 - Media transmission takes longer
 - Media may remain stuck loading
@@ -129,18 +127,20 @@ This document explains how core WhatsApp features work behind the scenes. It out
 ##  Voice Notes
 
 **Software Components Involved**
-- **User Interface (UI):** Microphone button, playback controls
+
+**User Interface (UI):** Microphone button, playback controls
   
-- **Business Logic:**
+**Business Logic:**
   - Records and compresses audio
   - Manages playback
-- **Network / APIs:** Transmits audio files over the internet
+    
+**Network / APIs:** Transmits audio files over the internet
   
-- **Data Storage:** Saves voice notes on both device and server
+**Data Storage:** Saves voice notes on both device and server
 
 **Internet Connectivity Required:** Yes (for sending and receiving)
 
-**Behavior When Network Is Slow or Unavailable**
+**Behavior When Network Is Slow or Unavailable:**
 - Voice notes send slowly
 - Playback may buffer
 - Sending resumes once internet connectivity is restored
@@ -162,7 +162,7 @@ This document explains how core WhatsApp features work behind the scenes. It out
 
 **Internet Connectivity Required:** Yes
 
-**Behavior When Network Is Slow or Unavailable**
+**Behavior When Network Is Slow or Unavailable:**
 - Forwarding delays occur
 - Messages remain unsent
 - Forwarding completes after network recovery
@@ -175,7 +175,7 @@ This document explains how core WhatsApp features work behind the scenes. It out
 - **User Interface (UI):** Status Viewer, Camera interface, Text editor
   
 - **Business Logic:**
-  - Enforces 24-hour expiration
+  - Enforces 24-hour status showing expiration
   - Manages privacy settings
     
 - **Network / APIs:** Uploads and retrieves status content
@@ -184,7 +184,7 @@ This document explains how core WhatsApp features work behind the scenes. It out
 
 **Internet Connectivity Required:**  Yes
 
-**Behavior When Network Is Slow or Unavailable**
+**Behavior When Network Is Slow or Unavailable:**
 - Status uploads are delayed or fail
 - Status viewing is unavailable
 - Status uploads automatically once the user reconnects
