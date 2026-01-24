@@ -39,10 +39,9 @@ This document explains how core WhatsApp features work behind the scenes. It out
 ## Instant Messaging
 
 **Software Components Involved**
-- **User Interface (UI):**
-  - Chat screen
-  - Text input box
-  - Send button
+- **User Interface (UI):** Chart screen, Text input box, send button
+
+  
 - **Business Logic:**
   - Message sending and receiving
   - Time-stamping of messages
