@@ -189,6 +189,11 @@ This document explains how core WhatsApp features work behind the scenes. It out
 - Status viewing is unavailable
 - Status uploads automatically once the user reconnects
 
+# Part C: Change and Maintainability
+- **Optimize the app for low-end smartphones**
+- Reason: A suitable change scenario for WhatsApp is optimizing the app for low-end smartphones. This change would improve performance, reduce resource usage, and increase accessibility for users in developing countries such as Uganda.
+
+
 
 
 
