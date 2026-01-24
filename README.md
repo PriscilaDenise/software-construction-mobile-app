@@ -107,20 +107,17 @@ This document explains how core WhatsApp features work behind the scenes. It out
 ##  Media Sharing (Photos, Videos, Documents)
 
 **Software Components Involved**
-- **User Interface (UI):**
-  - Media picker
-  - Preview screen
-  - Download button
+- **User Interface (UI):** Media picker, Preview screen, Download button
+  
 - **Business Logic:**
   - Compresses media files
   - Validates file size and format
-- **Network / APIs:**
-  - Handles media uploads and downloads
-- **Data Storage:**
-  - Stores media locally and temporarily on servers
+    
+- **Network / APIs:** Handles media uploads and downloads
+  
+- **Data Storage:** Stores media locally and temporarily on servers
 
-**Internet Connectivity Required**
-- Yes
+**Internet Connectivity Required:** Yes
 
 **Behavior When Network Is Slow or Unavailable**
 - Uploads and downloads may pause or fail
@@ -132,19 +129,16 @@ This document explains how core WhatsApp features work behind the scenes. It out
 ##  Voice Notes
 
 **Software Components Involved**
-- **User Interface (UI):**
-  - Microphone button
-  - Playback controls
+- **User Interface (UI):** Microphone button, playback controls
+  
 - **Business Logic:**
   - Records and compresses audio
   - Manages playback
-- **Network / APIs:**
-  - Transmits audio files over the internet
-- **Data Storage:**
-  - Saves voice notes on both device and server
+- **Network / APIs:** Transmits audio files over the internet
+  
+- **Data Storage:** Saves voice notes on both device and server
 
-**Internet Connectivity Required**
-- Yes (for sending and receiving)
+**Internet Connectivity Required:** Yes (for sending and receiving)
 
 **Behavior When Network Is Slow or Unavailable**
 - Voice notes send slowly
@@ -156,19 +150,17 @@ This document explains how core WhatsApp features work behind the scenes. It out
 ##  Message Forwarding
 
 **Software Components Involved**
-- **User Interface (UI):**
-  - Forward button
-  - Contact selection screen
+- **User Interface (UI):** Foward button, Contact selection screen
+  
 - **Business Logic:**
   - Copies message content
   - Restricts bulk forwarding
-- **Network / APIs:**
-  - Resends messages to selected recipients
-- **Data Storage:**
-  - Uses existing stored message data
+    
+- **Network / APIs:** Resends messages to selected recipients
+  
+- **Data Storage:** Uses existing stored message data
 
-**Internet Connectivity Required**
-- Yes
+**Internet Connectivity Required:** Yes
 
 **Behavior When Network Is Slow or Unavailable**
 - Forwarding delays occur
@@ -180,20 +172,17 @@ This document explains how core WhatsApp features work behind the scenes. It out
 ##  Status Updates
 
 **Software Components Involved**
-- **User Interface (UI):**
-  - Status viewer
-  - Camera interface
-  - Text editor
+- **User Interface (UI):** Status Viewer, Camera interface, Text editor
+  
 - **Business Logic:**
   - Enforces 24-hour expiration
   - Manages privacy settings
-- **Network / APIs:**
-  - Uploads and retrieves status content
-- **Data Storage:**
-  - Temporarily stores status data until expiration
+    
+- **Network / APIs:** Uploads and retrieves status content
+  
+- **Data Storage:** Temporarily stores status data until expiration
 
-**Internet Connectivity Required**
-- Yes
+**Internet Connectivity Required:**  Yes
 
 **Behavior When Network Is Slow or Unavailable**
 - Status uploads are delayed or fail
