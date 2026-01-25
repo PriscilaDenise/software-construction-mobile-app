@@ -200,6 +200,8 @@ Second, the media handliing system would need adjustment. Sending and receiving 
 
 Third, background processes such as message syncing, notifications, and backups would need optimisation.Low-end phones often kill apps running in the background to save memory. WhatsApp would have to reduce background activity so the app does not slow down the entire device or drain the battery.
 
+Finally, storage and caching logic would need improvement. Many low-end phones have very little free storage, so WhatsApp would need to clean old data automatically and avoid keeping unnecessary files.
+
 
 
 
