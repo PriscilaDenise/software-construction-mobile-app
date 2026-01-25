@@ -222,6 +222,11 @@ Developers may need to treat low-end and high-end devices differently, which inc
 
 This change would require extensive testing. Every optimization must be tested on real low-end devices to ensure the app does not crash, lose messages, or behave unpredictably.
 
+# Part D: Software Construction Challenges
+
+
+## 1. Performance and Scalability
+As the user base grows, WhatsApp is required to process a massive number of messages, calls, and media transfers at the same time, which places heavy pressure on the system. Because all users expect instant communication, even a very small delay can quickly become noticeable and frustrating when it affects millions of people simultaneously. 
 
 
 
