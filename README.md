@@ -224,19 +224,21 @@ This change would require extensive testing. Every optimization must be tested o
 
 # Part D: Software Construction Challenges
 
-## 1. Performance and Scalability
+**1. Performance and Scalability**
 As the user base grows, WhatsApp is required to process a massive number of messages, calls, and media transfers at the same time, which places heavy pressure on the system. Because all users expect instant communication, even a very small delay can quickly become noticeable and frustrating when it affects millions of people simultaneously. 
 
-## 2. Security and Data Privacy
+**2. Security and Data Privacy**
 WhatsApp faces the significant challenge of protecting highly sensitive user data, as they store and transmit private conversations that make them prime targets for cyberattacks. Any security flaw, even minor, can expose personal information and severely damage user trust. The complexity of implementing robust end-to-end encryption while maintaining performance adds another layer of difficulty.
 
 
-## 3. Testing Across Devices and OS Versions
+**3. Testing Across Devices and OS Versions**
 WhatsApp faces the challenge of ensuring consistent functionality across a vast array of devices, operating systems, and software versions. A feature that works perfectly on one phone may fail on another due to differences in hardware, screen sizes, or OS behavior. Additionally, operating system updates can unexpectedly break existing features, creating further unpredictability. Testing every possible combination of devices, OS versions, and app states is extremely time-consuming and resource-intensive, making it a continuous and complex challenge to ensure the app works reliably for all users.
 
-## 4. Backward Compatibility
+**4. Backward Compatibility**
 WhatsApp faces the challenge of maintaining backward compatibility because not all users update their apps or devices regularly. New features must function correctly on older versions of the app, and some older devices may lack the hardware or software capabilities to support these updates. This creates a complex situation where failing to support legacy devices risks excluding a significant portion of users, while ensuring compatibility adds an extra burden to development and testing efforts.
 
+**5. Reliability Under Poor Network Conditions**
+WhatsApp faces the challenge of ensuring reliable operation in areas with unstable internet connections. In such conditions, messages can fail to send or arrive out of order, while calls may drop or experience significant delays. These network issues make it difficult to provide a consistent and seamless user experience, as the app must remain functional despite interruptions and fluctuations in connectivity. 
 
 
 
