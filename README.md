@@ -202,6 +202,10 @@ Third, background processes such as message syncing, notifications, and backups 
 
 Finally, storage and caching logic would need improvement. Many low-end phones have very little free storage, so WhatsApp would need to clean old data automatically and avoid keeping unnecessary files.
 
+# What existing features could break?
+When optimizing for low-end smartphones, some features may not work exactly as users expect.
+
+
 
 
 
