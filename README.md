@@ -207,6 +207,9 @@ When optimizing for low-end smartphones, some features may not work exactly as u
 
 Media-related features could be affected first. Stronger compression may make photos and videos appear lower in quality, which some users may notice and dislike.
 
+Voice and video calls could also suffer. To save processing power and data, calls may run at lower audio or video quality, leading to less clear conversations.
+
+
 
 
 
