@@ -194,7 +194,7 @@ This document explains how core WhatsApp features work behind the scenes. It out
 - Reason: A suitable change scenario for WhatsApp is optimizing the app for low-end smartphones. This change would improve performance, reduce resource usage, and increase accessibility for users in developing countries such as Uganda.
 
 # Which parts of the app would need changes?
-First, the user interface (UI) would need changes. Low-end phones struggle with heavy animations, high-resolution images, and complex transitions. To improve performance, the app would need simpler layouts, fewer visual effects, and lighter icons so the phone’s processor and memory are not overloaded.
+First, the **user interface (UI)** would need changes. Low-end phones struggle with heavy animations, high-resolution images, and complex transitions. To improve performance, the app would need simpler layouts, fewer visual effects, and lighter icons so the phone’s processor and memory are not overloaded.
 
 
 
