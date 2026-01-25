@@ -218,6 +218,8 @@ This change is difficult mainly because of the huge variety of devices WhatsApp 
 
 If WhatsApp removes too many features or reduces quality too much, users may feel the app has become worse, even if it runs faster and fail to balance performance and user experience.
 
+Developers may need to treat low-end and high-end devices differently, which increases complexity and makes bugs more likely.
+
 
 
 
