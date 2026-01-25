@@ -220,6 +220,8 @@ If WhatsApp removes too many features or reduces quality too much, users may fee
 
 Developers may need to treat low-end and high-end devices differently, which increases complexity and makes bugs more likely.
 
+This change would require extensive testing. Every optimization must be tested on real low-end devices to ensure the app does not crash, lose messages, or behave unpredictably.
+
 
 
 
