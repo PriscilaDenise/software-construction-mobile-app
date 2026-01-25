@@ -198,7 +198,7 @@ First, the **user interface (UI)** would need changes. Low-end phones struggle w
 
 Second, the media handliing system would need adjustment. Sending and receiving photos, videos, and voice notes uses a lot of memory and storage on low-end devices. WhatsApp would need to compress media more aggressively and limit how much media is stored on the phone at once. 
 
-Third, background processes such as message syncing, notifications, and backups would need optimisation. 
+Third, background processes such as message syncing, notifications, and backups would need optimisation.Low-end phones often kill apps running in the background to save memory. WhatsApp would have to reduce background activity so the app does not slow down the entire device or drain the battery.
 
 
 
