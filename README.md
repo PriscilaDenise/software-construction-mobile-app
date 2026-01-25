@@ -231,6 +231,9 @@ As the user base grows, WhatsApp is required to process a massive number of mess
 WhatsApp faces the significant challenge of protecting highly sensitive user data, as they store and transmit private conversations that make them prime targets for cyberattacks. Any security flaw, even minor, can expose personal information and severely damage user trust. The complexity of implementing robust end-to-end encryption while maintaining performance adds another layer of difficulty.
 
 
+## 3. Testing Across Devices and OS Versions
+WhatsApp faces the challenge of ensuring consistent functionality across a vast array of devices, operating systems, and software versions. A feature that works perfectly on one phone may fail on another due to differences in hardware, screen sizes, or OS behavior. Additionally, operating system updates can unexpectedly break existing features, creating further unpredictability. Testing every possible combination of devices, OS versions, and app states is extremely time-consuming and resource-intensive, making it a continuous and complex challenge to ensure the app works reliably for all users.
+
 
 
 
