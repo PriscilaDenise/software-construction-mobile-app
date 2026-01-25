@@ -211,6 +211,8 @@ Voice and video calls could also suffer. To save processing power and data, call
 
 Another issue could be delayed notifications. If background activity is reduced too much, messages may not appear instantly, especially when the phone is locked or low on memory.
 
+Visual features like animations and smooth transitions might be removed or simplified. While this improves performance, the app may feel less modern to some users.
+
 
 
 
