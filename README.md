@@ -213,6 +213,8 @@ Another issue could be delayed notifications. If background activity is reduced 
 
 Visual features like animations and smooth transitions might be removed or simplified. While this improves performance, the app may feel less modern to some users.
 
+# Why would this change be difficult to implement?
+This change is difficult mainly because of the huge variety of devices WhatsApp runs on. Low-end smartphones differ greatly in RAM size, processor speed, Android versions, and storage capacity.
 
 
 
