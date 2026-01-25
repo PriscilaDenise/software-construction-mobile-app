@@ -209,6 +209,7 @@ Media-related features could be affected first. Stronger compression may make ph
 
 Voice and video calls could also suffer. To save processing power and data, calls may run at lower audio or video quality, leading to less clear conversations.
 
+Another issue could be delayed notifications. If background activity is reduced too much, messages may not appear instantly, especially when the phone is locked or low on memory.
 
 
 
