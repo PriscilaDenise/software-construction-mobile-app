@@ -205,6 +205,8 @@ Finally, storage and caching logic would need improvement. Many low-end phones h
 # What existing features could break?
 When optimizing for low-end smartphones, some features may not work exactly as users expect.
 
+Media-related features could be affected first. Stronger compression may make photos and videos appear lower in quality, which some users may notice and dislike.
+
 
 
 
