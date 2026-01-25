@@ -224,12 +224,11 @@ This change would require extensive testing. Every optimization must be tested o
 
 # Part D: Software Construction Challenges
 
-
 ## 1. Performance and Scalability
 As the user base grows, WhatsApp is required to process a massive number of messages, calls, and media transfers at the same time, which places heavy pressure on the system. Because all users expect instant communication, even a very small delay can quickly become noticeable and frustrating when it affects millions of people simultaneously. 
 
-
-
+## 2. Security and Data Privacy
+WhatsApp faces the significant challenge of protecting highly sensitive user data, as they store and transmit private conversations that make them prime targets for cyberattacks. Any security flaw, even minor, can expose personal information and severely damage user trust. The complexity of implementing robust end-to-end encryption while maintaining performance adds another layer of difficulty.
 
 
 
