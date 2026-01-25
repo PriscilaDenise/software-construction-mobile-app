@@ -216,6 +216,9 @@ Visual features like animations and smooth transitions might be removed or simpl
 # Why would this change be difficult to implement?
 This change is difficult mainly because of the huge variety of devices WhatsApp runs on. Low-end smartphones differ greatly in RAM size, processor speed, Android versions, and storage capacity.
 
+If WhatsApp removes too many features or reduces quality too much, users may feel the app has become worse, even if it runs faster and fail to balance performance and user experience.
+
+
 
 
 
