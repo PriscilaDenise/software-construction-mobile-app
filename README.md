@@ -196,7 +196,7 @@ This document explains how core WhatsApp features work behind the scenes. It out
 # Which parts of the app would need changes?
 First, the **user interface (UI)** would need changes. Low-end phones struggle with heavy animations, high-resolution images, and complex transitions. To improve performance, the app would need simpler layouts, fewer visual effects, and lighter icons so the phone’s processor and memory are not overloaded.
 
-Second, the media handliing system would need adjustment. Sending and receiving photos, videos, and voice notes uses a lot of memory and storage
+Second, the media handliing system would need adjustment. Sending and receiving photos, videos, and voice notes uses a lot of memory and storage on low-end devices. 
 
 
 
