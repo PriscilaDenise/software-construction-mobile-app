@@ -234,6 +234,8 @@ WhatsApp faces the significant challenge of protecting highly sensitive user dat
 ## 3. Testing Across Devices and OS Versions
 WhatsApp faces the challenge of ensuring consistent functionality across a vast array of devices, operating systems, and software versions. A feature that works perfectly on one phone may fail on another due to differences in hardware, screen sizes, or OS behavior. Additionally, operating system updates can unexpectedly break existing features, creating further unpredictability. Testing every possible combination of devices, OS versions, and app states is extremely time-consuming and resource-intensive, making it a continuous and complex challenge to ensure the app works reliably for all users.
 
+## 4. Backward Compatibility
+WhatsApp faces the challenge of maintaining backward compatibility because not all users update their apps or devices regularly. New features must function correctly on older versions of the app, and some older devices may lack the hardware or software capabilities to support these updates. This creates a complex situation where failing to support legacy devices risks excluding a significant portion of users, while ensuring compatibility adds an extra burden to development and testing efforts.
 
 
 
