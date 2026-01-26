@@ -252,5 +252,15 @@ WhatsApp faces the challenge of maintaining backward compatibility because not a
 **5. Reliability Under Poor Network Conditions**
 WhatsApp faces the challenge of ensuring reliable operation in areas with unstable internet connections. In such conditions, messages can fail to send or arrive out of order, while calls may drop or experience significant delays. These network issues make it difficult to provide a consistent and seamless user experience, as the app must remain functional despite interruptions and fluctuations in connectivity. 
 
+# Part E: Group Reflection
+
+# What surprised your group most about the complexity behind this app?
+
+1. People from different countries and areas of the world can communicate 
+2. End-to-end encryption of messages  
+3. Scalability  (handling millions of messages at the same time) with no/ less time lag 
+4. Flexibility (both mobile, desktop versions on different devices) 
+5. Language variability  
+6. Security protocols (screenshots of dps and view once/ cannot open view once on secondary devices) 
 
 
