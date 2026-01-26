@@ -1,6 +1,18 @@
 
 # *APPLICATION*: WHATSAPP
 
+# *GROUP MEMBERS AND THERE ROLES*:
+
+Coordinator – DENISE PRISCILLA MUWANGUZI
+
+App Analyst – NICOLE MBABAZI MWEBEMBEZI
+
+Systems Thinker – NABASA ISAAC  AND YAWE ARTHUR
+
+Risk & Change Analyst – LETICIA LAKICA
+
+Documentation Lead - APOPHIA ATWIJUKIRE
+
 # Part A (Understanding the App)
 
 What problem does the app solve?
