@@ -263,4 +263,13 @@ WhatsApp faces the challenge of ensuring reliable operation in areas with unstab
 5. Language variability  
 6. Security protocols (screenshots of dps and view once/ cannot open view once on secondary devices) 
 
+# Why is writing “working code” not enough for software systems at this scale?
+1. Not sustainable (one single change might break the work/ code) 
+2. Doesn’t guarantee the system will perform reliably, efficiently and securely for millions of users.  
+3. A system also depends on other factors: the hardware, networking, and servers. (the server is running on a VM - post hardware failures, - storage and disk issues) 
+4. Code that works today, might not work tomorrow (tech / code advancements)
 
+# What did you learn about teamwork from this exercise?
+1. Learned our strengths and weaknesses  
+2. Collaborative techniques  
+3. New experience (online - trained us for remote work )
