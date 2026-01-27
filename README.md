@@ -3,7 +3,7 @@
 
 # *GROUP MEMBERS AND THERE ROLES*:
 
-Coordinator – DENISE PRISCILLA MUWANGUZI
+Coordinator –  PRISCILA DENISE MUWANGUZI
 
 App Analyst – NICOLE MBABAZI MWEBEMBEZI
 
@@ -273,3 +273,6 @@ WhatsApp faces the challenge of ensuring reliable operation in areas with unstab
 1. Learned our strengths and weaknesses  
 2. Collaborative techniques  
 3. New experience (online - trained us for remote work )
+
+
+# Contribution Declaration
