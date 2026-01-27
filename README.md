@@ -276,3 +276,22 @@ WhatsApp faces the challenge of ensuring reliable operation in areas with unstab
 
 
 # Contribution Declaration
+### Group Contributions
+
+- **PRISCILA DENISE MUWANGUZI** (Coordinator)  
+  Coordinated the group, managed timelines and discussions, wrote Part A: App Overview (problem solved + primary users), reviewed the entire document for consistency, and prepared the final GitHub submission.
+
+- **NICOLE MBABAZI MWEBEMBEZI** (App Analyst)  
+  Led Part A: Core Features (listed and described 7 key features), wrote Part B analysis for Instant Messaging and Voice/Video Calling, and helped select/define the features during group discussion.
+
+- **NABASA ISAAC** (Systems Thinker)  
+  Wrote Part B analysis for Group Chats and Media Sharing, contributed Part D challenges: Performance and Scalability + Reliability Under Poor Network Conditions, and reviewed backend reasoning in Part B.
+
+- **YAWE ARTHUR** (Systems Thinker)  
+  Wrote Part B analysis for Voice Notes, Message Forwarding, and Status Updates, contributed Part D challenges: Testing Across Devices and OS Versions + Backward Compatibility, and ensured architecture consistency in Part B.
+
+- **LETICIA LAKICA** (Risk & Change Analyst)  
+  Wrote the complete Part C: Change and Maintainability (chose optimization for low-end smartphones, parts to change, features that could break, implementation difficulties), contributed Part D challenge: Security and Data Privacy.
+
+- **APOPHIA ATWIJUKIRE** (Documentation Lead)  
+  Wrote Part E: Group Reflection (all three questions), formatted and polished the entire README.md (structure, headings, bullets, grammar), prepared the Contribution Declaration section, and ensured overall clarity and professional presentation.
