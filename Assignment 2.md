@@ -5,3 +5,6 @@ GROUP MEMBERS
 4. Leticia Lakica
 5. Nicole Mbabazi Mwebembezi
 6. Priscila Denise Muwanguzi 
+
+
+Programming refers to writing code to solve a specific pronlem. 
