@@ -11,3 +11,11 @@ GROUP MEMBERS
 - Programming focuses on writing code to solve a specific problem. It mainly involves implementation of algorithms, writing functions and ensuring the code works correctly. 
 
 - Software construction includes programming  as well as system design, documentation, testing, version control, collaboration, maintenance and deployment. The goal is to produce code which is reliable and maintainable. 
+
+
+## Describe a situation where poor maintainability could cause serious problems.
+
+Poor maintainability can cause serious problems in systems that require frequent updates or long-term use.
+
+For example, in a hospital management system, poorly written and undocumented code can make it difficult to fix bugs or update features. This may lead to incorrect patient records, system downtime, or medical risks, showing why maintainability is critical.
+
