@@ -24,4 +24,9 @@ For example, in a hospital management system, poorly written and undocumented co
 Version control systems such as Git allow multiple developers to work on the same project at the same time. They track changes, maintain a history of the project, enable rollback to previous versions, and reduce conflicts. They also improve accountability by showing who made specific changes.
 
 ## Describe how Code Reviews Improve Software Quality and Developer Skills
+Code reviews improve software quality by:
+	-	Identifying bugs and logical errors early
+	-	Enforcing coding standards and best practices
+	-	Improving readability and maintainability
+
 
