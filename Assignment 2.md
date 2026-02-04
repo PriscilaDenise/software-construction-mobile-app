@@ -7,4 +7,4 @@ GROUP MEMBERS
 6. Priscila Denise Muwanguzi 
 
 
-Programming refers to writing code to solve a specific pronlem. 
+Programming focuses on writing code to solve a specific problem. It mainly involves implementation of algorithms, writing functions and ensuring the code works correctly. 
