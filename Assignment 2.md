@@ -19,3 +19,6 @@ Poor maintainability can cause serious problems in systems that require frequent
 
 For example, in a hospital management system, poorly written and undocumented code can make it difficult to fix bugs or update features. This may lead to incorrect patient records, system downtime, or medical risks, showing why maintainability is critical.
 
+## Explain why version control is critical in team-based software development.
+
+Version control systems such as Git allow multiple developers to work on the same project at the same time. They track changes, maintain a history of the project, enable rollback to previous versions, and reduce conflicts. They also improve accountability by showing who made specific changes.
